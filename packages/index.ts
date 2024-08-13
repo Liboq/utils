@@ -1,0 +1,2 @@
+
+export { isNull } from './is';
